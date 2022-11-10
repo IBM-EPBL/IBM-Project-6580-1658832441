@@ -1,0 +1,8 @@
+p1 {
+    size: 16;
+    columns: rgba(106, 243, 8, 0.877);
+}
+#submit {
+    color: white;
+    background-color: rgb(3, 148, 252);
+}
